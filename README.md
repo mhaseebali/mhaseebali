@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Haseeb</h1>
-<h3 align="center">An App & Game Developer, from Pakistan.</h3>
+<h3 align="center">A Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/9WC8WTZsFxkRi/giphy.gif?cid=ecf05e47ij1dml0etv68wl1pqsjya19qoflooolbw88lb8y6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaseebali&label=Profile%20views&color=0e75b6&style=flat" alt="mhaseebali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nathan_47_7" target="blank"><img src="https://img.shields.io/twitter/follow/nathan_47_7?logo=twitter&style=for-the-badge" alt="nathan_47_7" /></a> </p>
 
-- 🔭 I’m currently working on **Unreal Engine 5 Game Dev, and also Mobile App Development**
+- 🔭 I’m currently working on **React, Flutter, Website & Mobile Development**
 
-- 🌱 I’m currently learning **Game, and App Development**
+- 🌱 I’m currently learning **React Native Mobile Application Development**
 
-- 👯 I’m looking to collaborate on **Flutter App Development tasks**
+- 👯 I’m looking to collaborate on **Web or App projects**
 
-- 🤝 I’m looking for help with **Unreal Engine 5 Game Development**
+- 🤝 I’m looking for help with **React Native**
 
-- 💬 Ask me about **MERN, Flutter, Node js, Unreal Engine & Animation**
+- 💬 Ask me about **MERN, React Native, Python, & Node js**
 
 - 📫 Contact me? **mail:haseebmlk12@gmail.com discord:Nathan.#8203**
 
